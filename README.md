@@ -51,6 +51,9 @@
 
 </p> 
 
+#```How to deploy```
+***([Tutorial](https://youtu.be/3IsqF2IS060?si=eK0vRLd6h5q8TmsG) )***
+
 <br>
    
 <h4 align="left"> Deploy on Replit
